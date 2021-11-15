@@ -251,6 +251,7 @@ MonoBehaviour:
   - {fileID: 180406, guid: 3b3cb28f974c42c4481d72da460937c9, type: 3}
   spawnPos: {x: 0, y: 0, z: 20}
   animalIndex: 0
+  randomX: 0
 --- !u!4 &327711002
 Transform:
   m_ObjectHideFlags: 0
